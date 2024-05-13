@@ -1,46 +1,46 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Strong and weak sides of node.js k
+  - Stateful and stateless servers k
+  - Nonblocking I/O and blocking code k
+  - Event loop phases k
+  - Event loop microtasks and macrotasks k
+  - Garbage collection h
+  - Node.js LTS schedule h
+  - I/O-bound, CPU-bound, memory-bound tasks k
+  - Interactive applications (close to real-time) h
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
   - Module `node:module`
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons k
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
-  - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
-  - DI containers
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - Dependencies: `npm`, `node_modules` u
+  - Files `package.json`, `package-lock.json` u
+  - Module-based permissions model k
+  - Isolation with modularity k
+  - Dependency injection k
+  - DI containers k
+  - Coupling and cohesion k
+  - Framework agnostic approach k
 - Environment
-  - Command line arguments
-  - Node.js CLI
-  - Process-based permissions
-  - Graceful shutdown
-  - Clustering
-  - Watch filesystem changes with --watch
+  - Command line arguments h
+  - Node.js CLI h
+  - Process-based permissions h
+  - Graceful shutdown k
+  - Clustering k
+  - Watch filesystem changes with --watch k
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
-  - Password hashing with crypto.scrypt
-  - Web Crypto API
-  - File system API (sync and async)
-  - Copy folder recursively
-  - Worker threads
+  - Streams API k
+  - Web Streams API k
+  - Crypto API k
+  - Password hashing with crypto.scrypt k
+  - Web Crypto API k
+  - File system API (sync and async) k
+  - Copy folder recursively k
+  - Worker threads h
   - Performance hooks
   - Native fetch and nodejs/undici
   - async_hooks
@@ -60,57 +60,57 @@
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
 - Network
-  - Endpoint throttling
+  - Endpoint throttling k
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates k
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API u
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S) u
+  - TCP/SSL u
+  - UDP u
+  - TLS u
+  - Websocket u
   - SSE
-  - HTTP/3 (QUIC)
-  - Long polling
-  - REST
-  - RPC
-  - Routing
-  - DoS
-  - DDoS
-  - XSS
-  - Path traversal
-  - CSRF
-  - DNS
-  - SQL injection
+  - HTTP/3 (QUIC) h
+  - Long polling u
+  - REST u
+  - RPC u
+  - Routing u
+  - DoS k
+  - DDoS k
+  - XSS k
+  - Path traversal k
+  - CSRF k
+  - DNS k
+  - SQL injection k
   - noDelay
-  - keep-alive
-  - IP sticky sessions
+  - keep-alive k
+  - IP sticky sessions k
 - Technique and tools
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Testing u
+  - CI/CD u
+  - Readable h
+  - Writable h
   - Transform
   - Back pressure
-  - Buffer
-  - Console
+  - Buffer h
+  - Console h
   - Inspector
 - Data access
-  - Data access layer
-  - Repository
-  - Active record
-  - Query builder
-  - Object-Relational Mapping
-  - CRUD
-  - DTO
+  - Data access layer k
+  - Repository k
+  - Active record k
+  - Query builder k
+  - Object-Relational Mapping k
+  - CRUD k
+  - DTO k
 - Error handling and debugging
-  - `Error`
+  - `Error` k
   - `error.cause`
   - `error.code`
   - `error.message`
@@ -119,11 +119,11 @@
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
-  - Flame graph
-  - Memory leaks
-  - Resource leaks
-  - Data race
+  - Debugging tools u
+  - Flame graph u
+  - Memory leaks u
+  - Resource leaks u
+  - Data race k
 - Integrations and bindings
   - Native addons
   - `C` and `C++` addons
