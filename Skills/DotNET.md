@@ -12,10 +12,10 @@
 - Modularity and Dependencies
   - .NET assemblies
   - NuGet package management: 👂 heard
-  - Dependency management in .NET h
-  - Dependency Injection in .NET h
-  - Inversion of Control (IoC) h
-  - IoC containers in .NET h
+  - Dependency management in .NET: 👂 heard
+  - Dependency Injection in .NET: 👂 heard
+  - Inversion of Control (IoC): 👂 heard
+  - IoC containers in .NET: 👂 heard
   - Middleware and pipeline configuration
   - Modular applications
 - Environment and Tools
@@ -31,17 +31,17 @@
 - APIs and Framework Features
   - LINQ: 👂 heard
   - SignalR for real-time web functionality
-  - High-performance RPC with `gRPC` h
+  - High-performance RPC with `gRPC`: 👂 heard
   - Security features (authentication, authorization)
   - Cryptography and secure data handling
   - Memory and resource management
-  - Globalization and localization h
+  - Globalization and localization: 👂 heard
 - Network and Protocols
-  - HTTP/HTTPS support h
-  - WebSockets for real-time communication h
-  - TCP/UDP networking h
-  - SSL/TLS for secure connections h
-  - Efficient network communication with `gRPC` h
+  - HTTP/HTTPS support: 👂 heard
+  - WebSockets for real-time communication: 👂 heard
+  - TCP/UDP networking: 👂 heard
+  - SSL/TLS for secure connections: 👂 heard
+  - Efficient network communication with `gRPC`: 👂 heard
   - HTTP/2 and HTTP/3 support
   - Network security (DDoS, XSS, CSRF prevention)
   - Serialization and deserialization (JSON, XML)
@@ -57,8 +57,8 @@
   - Dapper
   - ADO.NET for database access
   - Data modeling and migration
-  - Repository and Unit of Work patterns h
-  - CRUD operations h
+  - Repository and Unit of Work patterns: 👂 heard
+  - CRUD operations: 👂 heard
 - Error Handling and Debugging
   - Exception handling in .NET: 👂 heard
   - Custom error classes: 👂 heard
@@ -80,9 +80,9 @@
 - C# Development
   - C# syntax and language fundamentals: 👂 heard
   - Advanced C# features (LINQ, async/await, delegates, events): 👂 heard
-  - Reflection and dynamic programming h
-  - Data types and collections h
-  - Generics and extension methods h
+  - Reflection and dynamic programming: 👂 heard
+  - Data types and collections: 👂 heard
+  - Generics and extension methods: 👂 heard
   - Attributes and annotations
   - Interoperability with other .NET languages
 - `F#` Development

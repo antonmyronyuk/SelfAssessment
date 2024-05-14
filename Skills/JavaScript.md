@@ -18,12 +18,12 @@
   - `...rest`: 🖐️ used
   - `typeof`: 🖐️ used
   - Destructuring: 🖐️ used
-  - Generators: u
-  - Iterators: u
-  - Async generator: u
-  - Async iterator: u
-  - Chaining: u
-  - Optional chaining: u
+  - Generators: 🖐️ used
+  - Iterators: 🖐️ used
+  - Async generator: 🖐️ used
+  - Async iterator: 🖐️ used
+  - Chaining: 🖐️ used
+  - Optional chaining: 🖐️ used
   - IIFE: 🖐️ used
   - Async IIFE: 🖐️ used
   - `global`: 🖐️ used
@@ -99,17 +99,17 @@
   - Mixins: 🖐️ used
   - `Object.assign`: 🖐️ used
 - Standard classes and namespaces
-  - `Proxy`: u
+  - `Proxy`: 🖐️ used
   - `RegExp`: 🖐️ used
   - `Date`: 🖐️ used
   - `Math`: 🖐️ used
-  - `Reflect` h
+  - `Reflect`: 👂 heard
   - `Error`: 🖐️ used
-  - `Atomics` h
+  - `Atomics`: 👂 heard
   - `JSON`: 🖐️ used
   - `WeakRef`: 👂 heard
-  - `FinalizationRegistry` h
-  - `Intl` u
+  - `FinalizationRegistry`: 👂 heard
+  - `Intl`: 🖐️ used
   - `Promise`: 🖐️ used
   - `console`: 🖐️ used
   - Timers: 🖐️ used
@@ -119,4 +119,4 @@
   - npm: 🖐️ used
   - prettier: 🖐️ used
   - MDN: 👂 heard
-  - TC39 h
+  - TC39: 👂 heard
