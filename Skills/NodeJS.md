@@ -1,46 +1,46 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js k
-  - Stateful and stateless servers k
-  - Nonblocking I/O and blocking code k
-  - Event loop phases k
-  - Event loop microtasks and macrotasks k
-  - Garbage collection h
-  - Node.js LTS schedule h
-  - I/O-bound, CPU-bound, memory-bound tasks k
-  - Interactive applications (close to real-time) h
+  - Strong and weak sides of node.js: 🎓 known
+  - Stateful and stateless servers: 🎓 known
+  - Nonblocking I/O and blocking code: 🎓 known
+  - Event loop phases: 🎓 known
+  - Event loop microtasks and macrotasks: 🎓 known
+  - Garbage collection: 👂 heard
+  - Node.js LTS schedule: 👂 heard
+  - I/O-bound, CPU-bound, memory-bound tasks: 🎓 known
+  - Interactive applications (close to real-time): 👂 heard
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
   - Module `node:module`
   - Caching in CJS and ESM
-  - Modules as singletons k
+  - Modules as singletons: 🎓 known
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` u
-  - Files `package.json`, `package-lock.json` u
-  - Module-based permissions model k
-  - Isolation with modularity k
-  - Dependency injection k
-  - DI containers k
-  - Coupling and cohesion k
-  - Framework agnostic approach k
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
+  - Module-based permissions model: 🎓 known
+  - Isolation with modularity: 🎓 known
+  - Dependency injection: 🎓 known
+  - DI containers: 🎓 known
+  - Coupling and cohesion: 🎓 known
+  - Framework agnostic approach: 🎓 known
 - Environment
-  - Command line arguments h
-  - Node.js CLI h
-  - Process-based permissions h
-  - Graceful shutdown k
-  - Clustering k
-  - Watch filesystem changes with --watch k
+  - Command line arguments: 👂 heard
+  - Node.js CLI: 👂 heard
+  - Process-based permissions: 👂 heard
+  - Graceful shutdown: 🎓 known
+  - Clustering: 🎓 known
+  - Watch filesystem changes with --watch: 🎓 known
 - Internal API
-  - Streams API k
-  - Web Streams API k
-  - Crypto API k
-  - Password hashing with crypto.scrypt k
-  - Web Crypto API k
-  - File system API (sync and async) k
-  - Copy folder recursively k
-  - Worker threads h
+  - Streams API: 🎓 known
+  - Web Streams API: 🎓 known
+  - Crypto API: 🎓 known
+  - Password hashing with crypto.scrypt: 🎓 known
+  - Web Crypto API: 🎓 known
+  - File system API (sync and async): 🎓 known
+  - Copy folder recursively: 🎓 known
+  - Worker threads: 👂 heard
   - Performance hooks
   - Native fetch and nodejs/undici
   - async_hooks
@@ -60,57 +60,57 @@
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
 - Network
-  - Endpoint throttling k
+  - Endpoint throttling: 🎓 known
   - ALPN
   - SNI callback
-  - SSL certificates k
+  - SSL certificates: 🎓 known
   - Protocol agnostic approach
-  - Fetch API u
+  - Fetch API: 🖐️ used
   - IncomingMessage
-  - HTTP(S) u
-  - TCP/SSL u
-  - UDP u
-  - TLS u
-  - Websocket u
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🖐️ used
+  - UDP: 🖐️ used
+  - TLS: 🖐️ used
+  - Websocket: 🖐️ used
   - SSE
-  - HTTP/3 (QUIC) h
-  - Long polling u
-  - REST u
-  - RPC u
-  - Routing u
-  - DoS k
-  - DDoS k
-  - XSS k
-  - Path traversal k
-  - CSRF k
-  - DNS k
-  - SQL injection k
+  - HTTP/3 (QUIC): 👂 heard
+  - Long polling: 🖐️ used
+  - REST: 🖐️ used
+  - RPC: 🖐️ used
+  - Routing: 🖐️ used
+  - DoS: 🎓 known
+  - DDoS: 🎓 known
+  - XSS: 🎓 known
+  - Path traversal: 🎓 known
+  - CSRF: 🎓 known
+  - DNS: 🎓 known
+  - SQL injection: 🎓 known
   - noDelay
-  - keep-alive k
-  - IP sticky sessions k
+  - keep-alive: 🎓 known
+  - IP sticky sessions: 🎓 known
 - Technique and tools
   - Native test runner
   - Logging
   - Application configuring
-  - Testing u
-  - CI/CD u
-  - Readable h
-  - Writable h
+  - Testing: 🖐️ used
+  - CI/CD: 🖐️ used
+  - Readable: 👂 heard
+  - Writable: 👂 heard
   - Transform
   - Back pressure
-  - Buffer h
-  - Console h
+  - Buffer: 👂 heard
+  - Console: 👂 heard
   - Inspector
 - Data access
-  - Data access layer k
-  - Repository k
-  - Active record k
-  - Query builder k
-  - Object-Relational Mapping k
-  - CRUD k
-  - DTO k
+  - Data access layer: 🎓 known
+  - Repository: 🎓 known
+  - Active record: 🎓 known
+  - Query builder: 🎓 known
+  - Object-Relational Mapping: 🎓 known
+  - CRUD: 🎓 known
+  - DTO: 🎓 known
 - Error handling and debugging
-  - `Error` k
+  - `Error`: 🎓 known
   - `error.cause`
   - `error.code`
   - `error.message`
@@ -119,11 +119,11 @@
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools u
-  - Flame graph u
-  - Memory leaks u
-  - Resource leaks u
-  - Data race k
+  - Debugging tools: 🖐️ used
+  - Flame graph: 🖐️ used
+  - Memory leaks: 🖐️ used
+  - Resource leaks: 🖐️ used
+  - Data race: 🎓 known
 - Integrations and bindings
   - Native addons
   - `C` and `C++` addons
