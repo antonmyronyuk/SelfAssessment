@@ -3,15 +3,15 @@
 - Core Concepts and Internals
   - Strengths and weaknesses of .NET
   - Stateful and stateless services
-  - Asynchronous and synchronous programming
-  - Task-based asynchronous pattern
+  - Asynchronous and synchronous programming: 🎓 known
+  - Task-based asynchronous pattern: 🎓 known
   - Garbage collection in .NET
   - .NET runtime versions and support
-  - I/O-bound, CPU-bound tasks
+  - I/O-bound, CPU-bound tasks: 🎓 known
   - Real-time applications with SignalR
 - Modularity and Dependencies
   - .NET assemblies
-  - NuGet package management
+  - NuGet package management: 👂 heard
   - Dependency management in .NET
   - Dependency Injection in .NET
   - Inversion of Control (IoC)
@@ -29,7 +29,7 @@
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
-  - LINQ
+  - LINQ: 👂 heard
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
   - Security features (authentication, authorization)
@@ -53,15 +53,15 @@
   - Debugging tools and strategies
   - Performance profiling and analysis
 - Data Access and ORM
-  - Entity Framework Core
+  - Entity Framework Core: 👂 heard
   - Dapper
   - ADO.NET for database access
   - Data modeling and migration
   - Repository and Unit of Work patterns
   - CRUD operations
 - Error Handling and Debugging
-  - Exception handling in .NET
-  - Custom error classes
+  - Exception handling in .NET: 👂 heard
+  - Custom error classes: 👂 heard
   - Debugging and diagnostic tools
   - Profiling and performance analysis
   - Memory leak detection
@@ -72,14 +72,14 @@
   - .NET for `WebAssembly`
   - Custom middleware development
 - Cloud and Microservices
-  - Integration with cloud platforms (Azure, AWS)
-  - Microservices architecture
-  - Containerization with Docker
-  - Kubernetes for orchestration
-  - Serverless computing
+  - Integration with cloud platforms (Azure, AWS): 🖐️ used
+  - Microservices architecture: 🖐️ used
+  - Containerization with Docker: 🖐️ used
+  - Kubernetes for orchestration: 🖐️ used
+  - Serverless computing: 🖐️ used
 - C# Development
-  - C# syntax and language fundamentals
-  - Advanced C# features (LINQ, async/await, delegates, events)
+  - C# syntax and language fundamentals: 👂 heard
+  - Advanced C# features (LINQ, async/await, delegates, events): 👂 heard
   - Reflection and dynamic programming
   - Data types and collections
   - Generics and extension methods
@@ -103,17 +103,17 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals
+  - C++ syntax and language fundamentals: 🖐️ used
   - Interoperability between managed (.NET) and unmanaged (native) code
-  - Memory management in mixed environments
-  - `C++/CLI` syntax and usage
+  - Memory management in mixed environments: 🖐️ used
+  - `C++/CLI` syntax and usage: 🖐️ used
   - Accessing .NET Framework classes in `C++`
   - Writing performance-critical modules
   - Interfacing with native libraries and APIs
   - Developing custom .NET libraries in `C++`
   - Managing resource disposal and finalization
   - Creating and consuming DLLs (Dynamic Link Libraries)
-  - Working with Windows API
+  - Working with Windows API: 🖐️ used
   - Migration of legacy `C++` code to .NET
   - Enhancing existing .NET applications with `C++/CLI`
 - Mobile development
@@ -122,7 +122,7 @@
 - Game development
   - Unity
 - Web development
-  - ASP.NET Core
+  - ASP.NET Core: 👂 heard
   - Blazor
   - Razor Syntax
-  - RESTful API development
+  - RESTful API development: 👂 heard
