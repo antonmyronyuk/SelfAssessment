@@ -22,7 +22,7 @@
   - Quality: 🎓 known
   - Availability: 🎓 known
   - Flexibility: 🎓 known
-  - Law of Demeter (LoD)
+  - Law of Demeter (LoD) k
 - Application architecture
   - Isolation between layer: 🎓 known
   - Domain-specific language (DSL): 🎓 known
@@ -35,16 +35,16 @@
   - Dependency injection (DI): 🖐️ used
   - Clean architecture: 🎓 known
   - Domain-driven design (DDD): 🎓 known
-  - Pub/sub: 🎓 known
-  - Message brocker: 🎓 known
+  - Pub/sub: u
+  - Message brocker: u
   - Agent: 🎓 known
   - Service locator: 🎓 known
-  - Message Queue (MQ): 🎓 known
+  - Message Queue (MQ): u
   - CQRS: 🎓 known
   - Event sourcing: 👂 heard
-  - E-R data modeling
+  - E-R data modeling k
   - Entity-relationship diagram: 🎓 known
-  - IDEF1X
+  - IDEF1X h
   - UML: 🎓 known
   - Work breakdown structure: 🎓 known
   - Budget estimation: 🎓 known
@@ -53,24 +53,24 @@
   - Load balancing: 🎓 known
   - Gateways: 🎓 known
   - On-premises: 🎓 known
-  - IaaS: 👂 heard
-  - PaaS: 👂 heard
-  - SaaS: 👂 heard
-  - FaaS clouds: 👂 heard
-  - Serverless: 🎓 known
+  - IaaS: u
+  - PaaS: u
+  - SaaS: u
+  - FaaS clouds: u
+  - Serverless: u
   - Vendor lock-in: 🎓 known
   - Bus factor: 🎓 known
 - Solution architecture
-  - A software requirements specification (SRS): 👂 heard
-  - Solution visions: 👂 heard
-  - Solution capabilities: 👂 heard
-  - System design: 🎓 known
-  - Process modelling: 🎓 known
-  - Data modelling: 🎓 known
-  - Solution components: 🎓 known
-  - Risk assessment: 🎓 known
+  - A software requirements specification (SRS): k
+  - Solution visions: k
+  - Solution capabilities: k
+  - System design: u
+  - Process modelling: u
+  - Data modelling: u
+  - Solution components: u
+  - Risk assessment: u
   - Non Functional Requirements (NFR)
-  - Clouds: 🎓 known
+  - Clouds: u
   - BPMN
   - Low-code: 👂 heard
   - No-code: 👂 heard
@@ -85,7 +85,7 @@
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope k
   - Enterprise service bus
   - Service-oriented architecture: 🖐️ used
   - Microservices: 🖐️ used
@@ -95,6 +95,6 @@
   - Business Intelligence: 🎓 known
   - OLAP: 🎓 known
   - OLTP: 🎓 known
-  - Conways Law
+  - Conways Law h
   - Quality assurance: 🎓 known
-  - Engineering Hygiene
+  - Engineering Hygiene h

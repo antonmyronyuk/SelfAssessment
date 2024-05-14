@@ -2,7 +2,7 @@
 
 - Theory and concepts
   - Data types: 🎓 known
-  - Performance tuning: 🎓 known
+  - Performance tuning: u
   - Migrations: 🖐️ used
   - Schema versioning: 🎓 known
   - Backup and recovery: 🖐️ used
@@ -17,10 +17,10 @@
   - Hierarchical databases
   - In-memory databases: 🖐️ used
   - Inverted index: 🎓 known
-  - Data control language (DCL): 🎓 known
-  - Data definition language (DDL): 🎓 known
-  - Data manipulation language (DML): 🎓 known
-  - Data query language (DQL): 🎓 known
+  - Data control language (DCL): u
+  - Data definition language (DDL): u
+  - Data manipulation language (DML): u
+  - Data query language (DQL): u
 - Relational
   - Entity-Relationship Diagram: 🖐️ used
   - Normal forms: 🖐️ used
@@ -32,7 +32,7 @@
   - Subqueries: 🖐️ used
   - Stored procedures: 🎓 known
   - SQL functions: 🖐️ used
-  - Materialized views: 🎓 known
+  - Materialized views: u
   - Replications: 🖐️ used
   - Virtualization: 🎓 known
 - SQL

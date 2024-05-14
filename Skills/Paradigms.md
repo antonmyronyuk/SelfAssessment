@@ -16,11 +16,11 @@
   - Reactive programming: 🎓 known
   - Functional-reactive (FRP): 🎓 known
   - Automata-based programming: 👂 heard
-  - Domain-specific languages: 🎓 known
+  - Domain-specific languages: u
   - Multi-paradigm programming: 🎓 known
   - Metaprogramming: 🖐️ used
   - Actor model: 🎓 known
-  - Lambda calculus: 🎓 known
+  - Lambda calculus: u
   - Black box: 🎓 known
   - Information hiding: 🎓 known
   - Aspect-oriented programming: 🎓 known
@@ -68,7 +68,7 @@
   - Factory Method: 🖐️ used
   - Abstract Factory: 🖐️ used
   - Adapter: 🖐️ used
-  - Observer: 🎓 known
+  - Observer: u
   - Strategy: 🖐️ used
   - Facade: 🖐️ used
   - Proxy: 🖐️ used
@@ -85,7 +85,7 @@
   - Mediator: 👂 heard
   - Memento: 👂 heard
   - Template Method: 🎓 known
-  - Visitor: 🎓 known
+  - Visitor: u
   - Reactor: 🎓 known
   - Active object: 🎓 known
   - Delegation: 🎓 known
