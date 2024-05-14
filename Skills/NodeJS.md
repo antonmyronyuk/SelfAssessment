@@ -11,10 +11,10 @@
   - I/O-bound, CPU-bound, memory-bound tasks: 🎓 known
   - Interactive applications (close to real-time): 👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
-  - Caching in CJS and ESM
+  - CommonJS modules: 🎓 known
+  - ECMAScript modules: 🎓 known
+  - Module `node:module`: 🎓 known
+  - Caching in CJS and ESM: 👂 heard
   - Modules as singletons: 🎓 known
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`: 🖐️ used
@@ -28,10 +28,10 @@
 - Environment
   - Command line arguments: 👂 heard
   - Node.js CLI: 👂 heard
-  - Process-based permissions: 👂 heard
-  - Graceful shutdown: 🎓 known
+  - Process-based permissions: 🎓 known
+  - Graceful shutdown: 🖐️ used
   - Clustering: 🎓 known
-  - Watch filesystem changes with --watch: 🎓 known
+  - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
   - Streams API: 🎓 known
   - Web Streams API: 🎓 known
@@ -40,7 +40,7 @@
   - Web Crypto API: 🎓 known
   - File system API (sync and async): 🎓 known
   - Copy folder recursively: 🎓 known
-  - Worker threads: 👂 heard
+  - Worker threads: 🎓 known
   - Performance hooks
   - Native fetch and nodejs/undici
   - async_hooks
@@ -64,7 +64,7 @@
   - ALPN
   - SNI callback
   - SSL certificates: 🎓 known
-  - Protocol agnostic approach
+  - Protocol agnostic approach: 🎓 known
   - Fetch API: 🖐️ used
   - IncomingMessage
   - HTTP(S): 🖐️ used
@@ -72,7 +72,7 @@
   - UDP: 🖐️ used
   - TLS: 🖐️ used
   - Websocket: 🖐️ used
-  - SSE
+  - SSE: 🎓 known
   - HTTP/3 (QUIC): 👂 heard
   - Long polling: 🖐️ used
   - REST: 🖐️ used
@@ -90,17 +90,17 @@
   - IP sticky sessions: 🎓 known
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
+  - Logging: 🎓 known
+  - Application configuring: 🎓 known
   - Testing: 🖐️ used
   - CI/CD: 🖐️ used
   - Readable: 👂 heard
   - Writable: 👂 heard
   - Transform
   - Back pressure
-  - Buffer: 👂 heard
-  - Console: 👂 heard
-  - Inspector
+  - Buffer: 🎓 known
+  - Console: 🎓 known
+  - Inspector: 🎓 known
 - Data access
   - Data access layer: 🎓 known
   - Repository: 🎓 known
@@ -116,9 +116,9 @@
   - `error.message`
   - `error.stack`
   - `Error.captureStackTrace`
-  - How to avoid mixins
-  - Uncaught exceptions
-  - Heap dump
+  - How to avoid mixins: 🎓 known
+  - Uncaught exceptions: 🎓 known
+  - Heap dump: 🎓 known
   - Debugging tools: 🖐️ used
   - Flame graph: 🖐️ used
   - Memory leaks: 🖐️ used
@@ -134,10 +134,10 @@
   - NAPI `C` and `C++`
   - NAPI `Rust`
   - NAPI `Zig`
-  - Webassembly `WAT`
-  - Webassembly `C` and `C++`
-  - Webassembly `Rust`
-  - Webassembly `Zig`
-  - Webassembly `AssemblyScript`
+  - Webassembly `WAT`: 👂 heard
+  - Webassembly `C` and `C++`: 👂 heard
+  - Webassembly `Rust`: 👂 heard
+  - Webassembly `Zig`: 👂 heard
+  - Webassembly `AssemblyScript`: 👂 heard
   - Shared memory
   - V8 binary serialization

@@ -22,13 +22,13 @@
   - Source code: 🎓 known
   - Object code: 🎓 known
   - Machine code: 🎓 known
-  - Microcode
+  - Microcode: 👂 heard
   - Software engineering: 🎓 known
   - Decomposition: 🎓 known
   - Control flow: 👂 heard
-  - Data flow j
+  - Data flow: 🎓 known
   - Code reuse: 🖐️ used
-  - Defensive programming
+  - Defensive programming: 🖐️ used
   - Don't repeat yourself (DRY): 🖐️ used
   - KISS principle: 🖐️ used
 - Syntax and concepts
@@ -118,9 +118,9 @@
   - Doubly list: 🚀 constructed
   - Unrolled list: 👂 heard
   - Circular list: 👂 heard
-  - Queue: 🖐️ used
-  - Stack: 🖐️ used
-  - Deque: 🖐️ used
+  - Queue: 🚀 constructed
+  - Stack: 🚀 constructed
+  - Deque: 🚀 constructed
   - Tree: 🚀 constructed
   - Graph: 🚀 constructed
   - Iterator: 🚀 constructed
@@ -129,7 +129,7 @@
   - Serialization: 🖐️ used
   - String parsing: 🖐️ used
   - JSON: 🖐️ used
-  - JSON5
+  - JSON5: 🎓 known
   - YAML: 🖐️ used
 - Networking
   - DNS: 🎓 known
@@ -149,13 +149,13 @@
   - Linter: 🖐️ used
   - Polyfill: 🖐️ used
   - Interpreter: 🖐️ used
-  - Linker
+  - Linker: 🎓 known
   - Dynamic linking: 🎓 known
   - Static linking: 🎓 known
   - Runtime: 🖐️ used
   - Virtual machine: 🖐️ used
-  - Register-based VM
-  - Stack-based VM
+  - Register-based VM: 👂 heard
+  - Stack-based VM: 👂 heard
   - Containerization: 🖐️ used
   - Debugger: 🖐️ used
   - Tracing: 🖐️ used
@@ -174,7 +174,7 @@
   - Magic numbers: 🎓 known
   - Hard code: 🎓 known
   - Soft code: 🎓 known
-  - Cryptic code
+  - Cryptic code: 🎓 known
   - Improbability factor: 🎓 known
   - Accidental complexity: 🎓 known
   - Action at a distance
@@ -197,16 +197,16 @@
   - Temporary field: 🎓 known
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments: 🎓 known
-  - Data clump
-  - Feature envy
+  - Data clump: 🎓 known
+  - Feature envy: 🎓 known
   - Monkey patch: 🎓 known
-  - Yo-yo problem
+  - Yo-yo problem: 🎓 known
 - Runtimes and virtual machines
   - Bytecode: 🖐️ used
   - V8: 👂 heard
   - VJM
   - CLR: 👂 heard
-  - Mono
+  - Mono: 👂 heard
 - Operating systems
   - Interrupts: 🎓 known
   - Drivers: 🎓 known
@@ -226,14 +226,14 @@
   - Escape sequence: 🖐️ used
   - RFC: 🖐️ used
   - IETF: 🖐️ used
-  - IANA
+  - IANA: 👂 heard
   - IEEE: 🖐️ used
   - Base64: 🖐️ used
-  - ECMA
-  - ICANN
+  - ECMA: 🖐️ used
+  - ICANN: 👂 heard
   - ISO: 🖐️ used
   - MIME: 🖐️ used
   - OWASP: 🖐️ used
   - UTF-8: 🖐️ used
   - W3C: 🖐️ used
-  - ODMG
+  - ODMG: 👂 heard

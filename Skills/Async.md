@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop: 🙋 explained
-  - `try..catch`: 🎓 known
+  - `try..catch`: 🖐️ used
   - Non-blocking: 🙋 explained
   - Async I/O: 🙋 explained
   - Thread pool: 🙋 explained
@@ -12,13 +12,13 @@
   - kqueue
   - Completion ports
   - Event ports
-  - libuv
+  - libuv: 🎓 known
   - Race conditions: 🎓 known
   - Dead locks: 🎓 known
   - Live locks: 🎓 known
   - Concurrent programming: 🙋 explained
   - Parallel programming: 🙋 explained
-  - Actor Model
+  - Actor Model: 🎓 known
   - Thread: 🙋 explained
   - Process: 🙋 explained
 - Async contracts
@@ -34,21 +34,21 @@
   - Async Iterator: 🖐️ used
   - Event: 🖐️ used
   - Coroutine: 🖐️ used
-  - Goroutine: 🎓 known
-  - Signal: 🎓 known
+  - Goroutine: 🖐️ used
+  - Signal: 🖐️ used
   - Stream: 🖐️ used
   - Chain of responsibility: 🎓 known
   - Middleware: 🖐️ used
   - Locks: 🖐️ used
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - Callbacks compose
-  - Async compose
+  - callbackify: 🎓 known
+  - promisify: 🎓 known
+  - asyncify: 🎓 known
+  - Callbacks compose: 🎓 known
+  - Async compose: 🎓 known
 - Async abstractions interfaces
   - EventEmitter: 🚀 constructed
-  - Observable/Observer: 🎓 known
+  - Observable/Observer: 🖐️ used
   - Readable: 👂 heard
   - Writable: 👂 heard
   - Transform: 👂 heard
@@ -57,7 +57,7 @@
   - Async Collector: 👂 heard
   - Semaphore: 🖐️ used
   - Mutex: 🖐️ used
-  - Spin Lock
+  - Spin Lock: 🎓 known
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
   - `setImmediate`: 🖐️ used
@@ -73,17 +73,17 @@
   - ref() and unref()
   - Error handling in async code: 🎓 known
   - Better stack traces with return await: 🎓 known
-  - JSON streaming serialization
+  - JSON streaming serialization: 🎓 known
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - Async.js library
+  - Async.js library: 🎓 known
   - RxJS library: 🎓 known
   - Promise.all: 🎓 known
   - Promise.allSettled: 🎓 known
   - Promise.race: 🎓 known
   - Promise.any: 🎓 known
   - Web Locks API: 👂 heard
-  - IPC
-  - Channel API
-  - Revealing constructor
+  - IPC: 🎓 known
+  - Channel API: 🖐️ used
+  - Revealing constructor: 🖐️ used
